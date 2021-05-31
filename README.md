@@ -10,5 +10,19 @@ Since the first PvP (player vs. player) video games began to allow live communic
 
 
 ## Contents
-#### Baselines
-[Binary SVM Baseline](https://github.com/melindazhu/pvp-sentiment-analysis/blob/main/SVM_Binary_Baseline.ipynb)
+### Baselines
+[Binary SVM Baseline (Code)](https://github.com/melindazhu/pvp-sentiment-analysis/blob/main/SVM_Binary_Baseline.ipynb) <br/>
+[Naive Bayes Baseline (Code)](https://github.com/melindazhu/pvp-sentiment-analysis/blob/main/Naive_Bayes_Baseline_with_Vocab.ipynb) <br/>
+
+### Machine Learning Classifiers
+[Naive Bayes (Code)](https://github.com/melindazhu/pvp-sentiment-analysis/blob/main/Naive_Bayes.ipynb) <br/>
+[K-Nearest Neighbors (Code)](https://github.com/melindazhu/pvp-sentiment-analysis/blob/main/K_Nearest_Neighbors.ipynb) <br/>
+[Random Forest (Code)](https://github.com/melindazhu/pvp-sentiment-analysis/blob/main/Random_Forest_Classifier.ipynb) <br/>
+
+### Deep Learning Classifiers
+[Feedforward Neural Network (word2vec)](https://github.com/melindazhu/pvp-sentiment-analysis/blob/main/Feedforward_Neural_Network_word2vec.ipynb) <br/>
+[Feedforward Neural Network (GloVe)](https://github.com/melindazhu/pvp-sentiment-analysis/blob/main/Feedforward_with_GloVe_Embeddings.ipynb) <br/>
+[LSTM (word2vec)](https://github.com/melindazhu/pvp-sentiment-analysis/blob/main/LSTM_with_Word2Vec_Embeddings.ipynb) <br/>
+[LSTM (GloVe)](https://github.com/melindazhu/pvp-sentiment-analysis/blob/main/LSTM_with_GloVe_Embeddings.ipynb) <br/>
+
+
