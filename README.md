@@ -26,3 +26,5 @@ Since the first PvP (player vs. player) video games began to allow live communic
 [LSTM (GloVe)](https://github.com/melindazhu/pvp-sentiment-analysis/blob/main/LSTM_with_GloVe_Embeddings.ipynb) <br/>
 
 
+## Acknowledgements
+We would like to acknowledge the dedication from the instructors and staff of CS229: Machine Learning this quarter. Further references and literature reviews are mentioned in our final paper.
